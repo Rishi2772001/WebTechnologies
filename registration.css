@@ -1,0 +1,56 @@
+#fname
+{
+    margin-left: 12px;
+}
+#lname
+{
+    margin-left: 14px;
+}
+#uname
+{
+    margin-left: 12px;
+}
+.frame
+{
+    text-align: center;
+    margin-left: 300px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-right: 300px;
+    margin-top: 75px;
+    position: relative;
+   background-color:ghostwhite;
+    border: solid;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 50px;
+    
+
+}
+#heading
+{
+    border: 5px;
+}
+#image1
+{
+
+    
+    position: relative;
+    size: 510px;
+}
+#b1
+{
+    background-color: blanchedalmond;
+    border-width: 2px;
+    border-radius: 8px;
+
+}
+#para{
+    font-family: cursive;
+
+}
+#anch
+{
+    font-family:cursive;
+    bor
+}
