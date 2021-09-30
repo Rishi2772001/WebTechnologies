@@ -12,11 +12,10 @@
 <button onclick="display()">click here</button>
 <script type="text/javascript">
 	function display(){
-		var x=document.createElement("h1");
-		var y=document.createTextNode("ANURAG UNIVERSITY");
-		x.appendChild(y);
-		var z=document.getElementById("demo");
-		z.appendChild(x);
+		
+		var x=document.getElementById("demo");
+		var z=document.getElementById("para2");
+		x.removeChild(z);
 	}
 </script>
 </body>
